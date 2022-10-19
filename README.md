@@ -174,6 +174,7 @@ Now that I have created these arrays, I can use Nested For Loops and variables t
    
    End Sub 
    ```
+   
    #### **Original Code**
    ```
     Sub AllStocksAnalysis()
@@ -315,9 +316,20 @@ Now that I have created these arrays, I can use Nested For Loops and variables t
             
             
      End Sub
-     ```
-     ### **Stocks Performances**
- 
+   
+   ```
+   
+   ### **Performances 2017 vs 2018
+   
+   We note that only 2 stocks, namely ENPH and RUN, increased their yield volumes by 81.9% and 84% respectively during 2018 compared to 2017.
+   ![Performances 2017](https://github.com/Hanzian/Stocks-Analysis/blob/main/Ressources/Screen%20Shot%20All%20Stocks%20Analysis%202017.png)
+   ![Performannces 2018](https://github.com/Hanzian/Stocks-Analysis/blob/main/Ressources/Screen%20Shot%20All%20Stock%20Analysis%202018.png)
+
+   
+    
+     
+     
+     
 
 
     
