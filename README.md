@@ -337,7 +337,7 @@ Now that I have created these arrays, I can use Nested For Loops and variables t
    ![ScreenShot 2018 Refatored](https://github.com/Hanzian/Stocks-Analysis/blob/main/Ressources/Screen%20Shot%202018%20refactored.png)
    
    
-   ## **Summary
+   ## **Summary**
    
    ### **The advantages and disadvantages of refactoring code**
    
