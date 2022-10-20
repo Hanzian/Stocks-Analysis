@@ -329,7 +329,7 @@ Now that I have created these arrays, I can use Nested For Loops and variables t
    
    ### **Execution Time**
    
-   The refacored code show us the improving of the efficiency. That's a succes. Execution time improved from 3849.16 seconds to 0.078125 seconds for 2017, and, 38515.6 to 0.078125 for 2018.
+   The refacored code show us the improving of the efficiency. That's a succes. Execution time improved from 1587.143 seconds to 0.078125 seconds for 2017, and, 1496.757 to 0.078125 for 2018.
    
    ![SceenShot 2017 Original](https://github.com/Hanzian/Stocks-Analysis/blob/main/Ressources/Screen%20Shot%202017%20Original.png)
    ![ScreeenShot 2017 Refactored](https://github.com/Hanzian/Stocks-Analysis/blob/main/Ressources/Screen%20Shot%202017%20Refactored.png)
