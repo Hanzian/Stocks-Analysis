@@ -339,13 +339,13 @@ Now that I have created these arrays, I can use Nested For Loops and variables t
    
    ## **Summary**
    
-   ### **The advantages and disadvantages of refactoring code**
+  ### **The advantages and disadvantages of refactoring code**
    
  - The advantages of refactoring code are a faster runtime, requiring less steps, less memory, and easier code readability for future users since it only loops through all the data one time. It also allows for more adaptability as it can handle larger datasets with greater efficiency. 
 
 - The disadvantages of refactoring code would be the time and you have to pay attention to go back to the original code to make these changes. It also requires a good understanding of the original code in order to optimize it.
 
-  ### **The advantages and disadvantages of the original and refactored VBA script**
+ ### **The advantages and disadvantages of the original and refactored VBA script**
   
   The original code is easy to understand because it's defined step by step as the instructoe show us in class. But the script is too long and the code take more time to run the Data. it's not efficient if we work the big data.
    
