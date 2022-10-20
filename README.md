@@ -326,7 +326,29 @@ Now that I have created these arrays, I can use Nested For Loops and variables t
    
    ![Performances 2017](https://github.com/Hanzian/Stocks-Analysis/blob/main/Ressources/Screen%20Shot%20All%20Stocks%20Analysis%202017.png)
    ![Performannces 2018](https://github.com/Hanzian/Stocks-Analysis/blob/main/Ressources/Screen%20Shot%20All%20Stock%20Analysis%202018.png)
+   
+   ### **Execution Time**
+   
+   The refacored code show us the improving of the efficiency. That's a succes. Execution time improved from 3849.16 seconds to 0.078125 seconds for 2017, and, 38515.6 to 0.078125 for 2018.
+   
+   ![SceenShot 2017 Original](https://github.com/Hanzian/Stocks-Analysis/blob/main/Ressources/Screen%20Shot%202017%20Original.png)
+   ![ScreeenShot 2017 Refactored](https://github.com/Hanzian/Stocks-Analysis/blob/main/Ressources/Screen%20Shot%202017%20Refactored.png)
+   ![ScreenShot 2018 Original](https://github.com/Hanzian/Stocks-Analysis/blob/main/Ressources/Screen%20Shot%202018%20Original.png)
+   ![ScreenShot 2018 Refatored](https://github.com/Hanzian/Stocks-Analysis/blob/main/Ressources/Screen%20Shot%202018%20refactored.png)
+   
+   
+   ## **Summary
+   
+   ### **The advantages and disadvantages of refactoring code**
+   
+ - The advantages of refactoring code are a faster runtime, requiring less steps, less memory, and easier code readability for future users since it only loops through all the data one time. It also allows for more adaptability as it can handle larger datasets with greater efficiency. 
 
+- The disadvantages of refactoring code would be the time and you have to pay attention to go back to the original code to make these changes. It also requires a good understanding of the original code in order to optimize it.
+
+  ### **The advantages and disadvantages of the original and refactored VBA script**
+  
+  The original code is easy to understand because it's defined step by step as the instructoe show us in class. But the script is too long and the code take more time to run the Data. it's not efficient if we work the big data.
+   
    
     
      
